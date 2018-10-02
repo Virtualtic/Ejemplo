@@ -1,7 +1,13 @@
 h1{
 	background-color: #009EFF;
 }
+h2{
+	color: #FF5100;
+}
 p{
 	color: #FF00FF;
 	font-size: 20px;
+}
+#paragraph3{
+	color:#7A442B;
 }
